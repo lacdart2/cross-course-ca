@@ -1,70 +1,85 @@
-# Your project title
+# Interaction Design Cross Course ca
 
 ![](images/interaction-design-homepage-screenshot.png)
 
-A simple overview of the use/purpose of the project.
+The main purpose of this project is to deliver a product that respects the design techniques and principles and to follow the path
+From making personas to creating scenarios and story board to ideation and implementation
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+this is letha shoes website, that deliverers a product to a targeted user type , users that are :
 
-You can add some bullet points if you'd like to:
+- men looking for hight quality shoes
+- for daily use
+- for occasions
+  after i went throw the research of the audience and made my personas
+  a new process of delivering easily the product via my website ,
+  as a user i would like to :
+- easy scan of the website
+- easy finding and searching for products
+- easy finding prices and info regarding the fabric and colors, sizes .
+- easy way to buy with high profile of insurance
 
-- List item 1
-- List item 2
-- List item 3
+a list of my tasks were grouped in this list :
+Find product :
+
+- Generated tasks : browse categories , basic search , recommendations by emails, touch points ,advenced search , filter in categories
+- Examin product:
+  See details and info, preview , compare to other products Add to cart :
+  Add to cart, save for later , continue shopping, add to wish list
+- Sign up :
+  use email, or connect with social media
+  Order and pay :
+- Place order, Enter card details ,save data from last visit
+- Ship to user :
+  Enter adress details, national, international
+  the website contains four pages,
+
+- home page: with a clear sale advertisement on the top , this is a good way to implement interaction design principles. and quick presenting the purpose of the website : selling.
+- products page : with mode detailed cards and information about the shoes.
+- about us page : here as a user i would like to get confident, presenting the brand and delivering all information needed is important to build trust.
+- contact us : where user will find all contact info.
+- cart page : with a summary of chosen items so far.
 
 ## Built With
 
 You can list a the tech stack that you've used over here
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- [ Html ]
+- [ Css ]
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+the site easy going with no installation required , the responsiveness in this project was not required,
 
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+https://github.com/lacdart2/cross-course-ca.git
 ```
 
 2. Install the dependencies:
 
 ```
-npm install
+no installation required
 ```
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
+runs at once no needs to install any packages
 
 ```bash
-npm run start
+
 ```
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+website better to be viewed on larger desktops as its not responsive as it was not requested.
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+[My Twitter page](https://twitter.com/LakhdarKader)
 
-[My Twitter page](www.twitter.com)
-
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+[My LinkedIn page](https://www.linkedin.com/in/lakhdar-hafsi-24b31060/)
