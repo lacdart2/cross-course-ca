@@ -47,6 +47,7 @@ i used mainly html and css and a bit of java script, functionalities regarding a
 
 - [ Html ]
 - [ Css ]
+- [ Javascript ]
 
 ## Getting Started
 
