@@ -43,7 +43,7 @@ Find product :
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+i used mainly html and css and a bit of java script, functionalities regarding adding to cart and form validation were not requested.
 
 - [ Html ]
 - [ Css ]
